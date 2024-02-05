@@ -9,15 +9,14 @@
 
 
 •	🌍 Based in the North-West, UK
-
 •	📫 How to reach me: msannamartins@gmail.com
-
 • 😄 Pronouns: she/her
-
 •	🧠 Currently furthering my knowledge by strengthening topics I’ve covered, practising and learning, and building a personal portfolio
-  
 • 💬 Ask me about Musical Theatre or cats! 
- 
 • 👯 I’m looking to collaborate on projects 
- 
 • ⚡ Fun fact: I used to be a professional tap-dancer
+
+My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,figma,git,github,jest,nodejs,postgres,react,supabase,ts,vercel&perline=20)](https://skillicons.dev)
+
