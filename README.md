@@ -6,7 +6,7 @@
   I have worked as a Special Educational Needs teacher and have a Master’s degree in Educational Leadership. I’m passionate about accessibility and have excellent skills in facilitation and collaboration. 
   I'm so excited to be on this journey, switching careers to Software Development and enjoying the process of learning and building useful things, that make our lives easier!
 </p>
----
+
 
 •	🌍 Based in the North-West, UK
 
