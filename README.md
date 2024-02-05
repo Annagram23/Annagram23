@@ -9,11 +9,17 @@ I have worked as a Special Educational Needs teacher and have a Master’s degre
 I’m so excited to be on this journey, switching careers to Software Development and enjoying the process of learning and building useful things that make our lives easier!</p>
 ---
 <p>
-1. •	🌍 Based in the North-West, UK
-2. •	📫 How to reach me: msannamartins@gmail.com
-3. • 😄 Pronouns: she/her
-4. •	🧠 Currently furthering my knowledge by strengthening topics I’ve covered, practising and learning, and building a personal portfolio
-5. • 💬 Ask me about Musical Theatre or cats! 
-6. • 👯 I’m looking to collaborate on projects 
-7. • ⚡ Fun fact: I used to be a professional tap-dancer
+•	🌍 Based in the North-West, UK
+  ---
+•	📫 How to reach me: msannamartins@gmail.com
+  ---
+• 😄 Pronouns: she/her
+  ---
+•	🧠 Currently furthering my knowledge by strengthening topics I’ve covered, practising and learning, and building a personal portfolio
+  ---
+• 💬 Ask me about Musical Theatre or cats! 
+  ---
+• 👯 I’m looking to collaborate on projects 
+  ---
+• ⚡ Fun fact: I used to be a professional tap-dancer
 </p>
